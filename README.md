@@ -2,3 +2,6 @@ This is the FiddlesticksUltimateCalculator, a program which lets you enter the a
 
 I used Java since I'm new to coding and just wanted to make a project that allows me to learn Java as well as apply my coding to something I like (LoL).
 
+Just download "test.jar" and run it.
+
+I'm planning to upadate it visually in the future, maybe add more options (i.e. being able to enter enemy amount of HP) and also add a calculator for his base abilities.
