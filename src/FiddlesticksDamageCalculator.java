@@ -16,6 +16,7 @@ public class FiddlesticksDamageCalculator extends JFrame {
         setSize(300, 200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
+        setLocationRelativeTo(null);
 
         createUI();
 
